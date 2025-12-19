@@ -13,14 +13,14 @@ services:
         fabric-api
         continents
         terralith
-        distant-horizons
+        distanthorizons
         chunky
         lithium
         better-nether
-    WHITELIST:
-      - ./whitelist.txt
-    OPS:
-      - ./ops.txt
+      WHITELIST:
+        - ./whitelist.txt
+      OPS:
+        - ./ops.txt
     volumes:
       - fabric:/data
   volumes:
