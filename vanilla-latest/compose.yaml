@@ -16,4 +16,5 @@ service:
       - ./ops.txt
     volumes:
       - mc_data:/data
-    
+  volumes:
+    mc_data: {}
