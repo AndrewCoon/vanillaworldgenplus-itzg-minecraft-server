@@ -1,4 +1,4 @@
-service:
+services:
   mc:
     image: itzg/minecraft-server
     tty: true
@@ -23,6 +23,6 @@ service:
       - ./ops.txt
     volumes:
       - fabric:/data
-volumes:
-  fabric: {}
+  volumes:
+    fabric: {}
     
