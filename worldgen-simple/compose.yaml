@@ -23,6 +23,4 @@ services:
         - ./ops.txt
     volumes:
       - fabric:/data
-  volumes:
-    fabric: {}
     
