@@ -2,7 +2,7 @@ Simple worldgen is a fabric server that includes the following mods for world ge
  - Continents
  - Terralith
  - Distant Horizons
- - Better Nether
+ - Amplified Nether
 
 And these for optimizations and dependencies:
  - Fabric API
