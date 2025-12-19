@@ -16,7 +16,7 @@ services:
         distanthorizons
         chunky
         lithium
-        better-nether
+        amplified-nether
       WHITELIST:
         - ./whitelist.txt
       OPS:
